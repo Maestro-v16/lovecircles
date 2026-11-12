@@ -2,8 +2,8 @@
    PERSONALISATION – edit only this block. Everything else just works.
    ===================================================================== */
 const CONFIG = {
-  herName: "Beautiful",              // her name (certificate + celebration)
-  nickname: "sweetheart",            // her nickname
+  herName: "Cutie",              // her name (certificate + celebration)
+  nickname: "Amorcito",            // her nickname
   myName: "Your Valentine",          // your name
   music: "assets/love-song.mp3",     // background song
   voice: "assets/voice-message.mp3", // your recording
